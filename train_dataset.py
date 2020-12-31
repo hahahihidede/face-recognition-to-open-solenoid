@@ -1,7 +1,3 @@
-
-# GitHub:   https://github.com/coneypo/Dlib_face_recognition_from_camera
-# Github : https://github.com/hahahihidede
-
 # import library dan file yang dibutuhkan
 import cv2
 import os
